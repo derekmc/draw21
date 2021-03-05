@@ -1,0 +1,10 @@
+Drawing Program
+
+Organic, and Minimal, but not simplistic
+
+Color Wheel, Joystick
+Buttons
+
+"Cursor Tablet Mode"
+
+The cursor is controlled in a smaller area.
